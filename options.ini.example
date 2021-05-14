@@ -5,7 +5,7 @@ client_id =
 client_secret = 
 
 [SETTINGS]
-# Space seperated subreddits to skip
+# Space separated subreddits to skip, case sensitive
 skip_subreddits = 
 min_comment_length = 512
 max_comment_length = 1024
