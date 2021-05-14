@@ -1,0 +1,11 @@
+[LOGIN]
+username = 
+password = 
+client_id = 
+client_secret = 
+
+[SETTINGS]
+# Space seperated subreddits to skip
+skip_subreddits = 
+min_comment_length = 512
+max_comment_length = 1024
